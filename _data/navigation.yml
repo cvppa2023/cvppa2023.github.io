@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "Organizers"
+    url: /organizers/
+  - title: "Submissions"
+    url: /submissions/
+  - title: "Challenges"
+    url: /challenges/
+  - title: "Important dates"
+    url: /dates/
+  # - title: "Program"
+  #  url: /program/
+  - title: "Contact"
+    url: /contact/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
