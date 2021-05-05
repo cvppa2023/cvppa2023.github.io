@@ -1,5 +1,5 @@
 ---
-permalink: /challenges-test/
+permalink: /challenges/
 title: "Challenges"
 ---
 
