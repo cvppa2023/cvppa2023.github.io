@@ -1,15 +1,37 @@
 ---
-permalink: /challenges/
+permalink: /challenges-test/
 title: "Challenges"
 ---
 
-## Global Wheat Challenge 2021
 
-[Challenge website, AIcrowd](https://www.aicrowd.com/challenges/global-wheat-challenge-2021).
+This year, we are running the following challenges:
 
-Challenge opens May 4, 2021 and ends on July 4, 2021. See the [challenge website](https://www.aicrowd.com/challenges/global-wheat-challenge-2021) for details.
+- [Global Wheat Challenge](#wheat),
+- [Leaf Segmentation Challenge](#segmentation),
+- [Leaf Counting Challenge](#counting),
+- to be announced.
+
+Please feel free to participate to these challenges and submit your solutions as an extendend abstract or full paper. Visit the [Call for Papers page](/submissions) for further details.   [Valerio Giuffrida](http://www.valeriogiuffrida.academy) is the challenges lead; [contact](mailto:V.Giuffrida@napier.ac.uk) with questions or concerns.
+
+<div id = "wheat"></div>
+## Global Wheat Challenge.
+
+![Global Wheat Challenge](http://www.global-wheat.com/wp-content/uploads/2019/11/temporary_gwd_logo-2.png "Global wheat challenge logo")
+
+Visit the [2021 challenge at AIcrowd](https://www.aicrowd.com/challenges/global-wheat-challenge-2021) or the [Global Wheat Challenge website](http://www.global-wheat.com "Global Wheat Challenge website") for more information.
+
+<div id = "segmentation"></div>
+## Leaf Segmentation Challenge.
 
 
-## Other challenges
+<img src="https://minioec-proxy.lri.fr/prod-public/logos/18405/4163e/logo.png" alt="Leaf Segmentation Challenge logo" align = "left" style="width:150px; padding: 0px 10px 10px 0px"/> The LSC is also running this year and hosted on [CodaLab](https://competitions.codalab.org/competitions/18405). (challenge #18405) Visit the [CVPPP 2017 Leaf Segmentation Challenge (LSC) page](https://www.plant-phenotyping.org/CVPPP2017-challenge " CVPPP 2017 LSC challenge page") for further details on how to participate in the challenge. 
 
-To be announced.
+
+<div id = "counting"></div>
+## Leaf Counting Challenge.
+
+<!--![Leaf Counting Challenge](https://panoptes-uploads.zooniverse.org/production/project_attached_image/28ae4bd9-fb7e-4314-a6a0-01026dfd61ed.gif "Leaf Counting Challenge")-->
+
+<img src="https://panoptes-uploads.zooniverse.org/production/project_attached_image/28ae4bd9-fb7e-4314-a6a0-01026dfd61ed.gif" alt="Leaf Counting Challenge" align = "left" style="width:150px; padding: 0px 10px 10px 0px"/> The Leaf Counting Challenge is also running this year. [Click here](https://www.plant-phenotyping.org/CVPPP2017-challenge) to get access to the dataset.
+
+
