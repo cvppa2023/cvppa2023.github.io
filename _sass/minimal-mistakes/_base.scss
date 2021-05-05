@@ -265,6 +265,11 @@ figure {
     transition: $global-transition;
   }
 
+	/* added */
+  img[src*="#thumbnail"] {
+   width:200px;
+  }
+
   > a {
     display: block;
   }
