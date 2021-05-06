@@ -32,6 +32,6 @@ Visit the [2021 challenge at AIcrowd](https://www.aicrowd.com/challenges/global-
 
 <!--![Leaf Counting Challenge](https://panoptes-uploads.zooniverse.org/production/project_attached_image/28ae4bd9-fb7e-4314-a6a0-01026dfd61ed.gif "Leaf Counting Challenge")-->
 
-<img src="https://panoptes-uploads.zooniverse.org/production/project_attached_image/28ae4bd9-fb7e-4314-a6a0-01026dfd61ed.gif" alt="Leaf Counting Challenge" align = "left" style="width:150px; padding: 0px 10px 10px 0px"/> The Leaf Counting Challenge is also running this year. [Click here](https://www.plant-phenotyping.org/CVPPP2017-challenge) to get access to the dataset.
+<img src="https://panoptes-uploads.zooniverse.org/production/project_attached_image/28ae4bd9-fb7e-4314-a6a0-01026dfd61ed.gif" alt="Leaf Counting Challenge" align = "left" style="width:150px; padding: 0px 10px 10px 0px"/> The Leaf Counting Challenge is also running this year and is now hosted on the [Jülich Challenges](https://data-challenges.fz-juelich.de/) website.
 
 
