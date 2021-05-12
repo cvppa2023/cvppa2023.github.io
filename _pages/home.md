@@ -12,7 +12,7 @@ The workshop will have paper tracks and challenges, please check back frequently
 
 ## Previous workshops
 
-This workshop was previously known as CVPPP, Computer Vision for Plant Phenotyping Problems.
+This workshop was previously known as CVPPP, Computer Vision Problems in Plant Phenotyping.
 
 - [CVPPP 2020 at ECCV](https://www.plant-phenotyping.org/CVPPP2020)
 - [CVPPP 2019 at CVPR](https://www.plant-phenotyping.org/CVPPP2019)

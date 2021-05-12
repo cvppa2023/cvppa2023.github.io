@@ -13,12 +13,12 @@ hidden: true
 <!-- |![Alt text](https://amytabb.com/images/amy_tabb_sep_2018.jpg)| temp|-->
 <!-- <i class="fas fa-fw fa-envelope-square" aria-hidden="true"> -->
 
-| Ian Stavness | Computer Science, University of Saskatchewan, Canada | <a href="mailto:ian.stavness@usask.ca" rel="nofollow noopener noreferrer">Email</a> |
-| [Valerio Giuffrida](http://www.valeriogiuffrida.academy) | School of Computing, Edinburgh Napier University, UK | <a href="mailto:V.Giuffrida@napier.ac.uk" rel="nofollow noopener noreferrer">Email</a> |
-| [Amy Tabb](https://amytabb.com) | United States Department of Agriculture, Agricultural Research Service, USA | <a href="mailto:amy.tabb@usda.gov" rel="nofollow noopener noreferrer">Email</a> |
-| Andrew French | School of Computer Science, University of Nottingham, UK | <a href="mailto:andrew.p.french@nottingham.ac.uk" rel="nofollow noopener noreferrer">Email</a> |
-| Michael Pound | School of Computer Science, University of Nottingham, UK | <a href="mailto:michael.pound@nottingham.ac.uk" rel="nofollow noopener noreferrer">Email</a> |
-| [Sotirios A Tsaftaris](http://tsaftaris.com) | University of Edinburgh, UK | <a href="mailto:s.tsaftaris@ed.ac.uk" rel="nofollow noopener noreferrer">Email</a> |
-| [Tony Pridmore](Computer Vision Laboratory) | University of Nottingham, UK | <a href="mailto:Tony.Pridmore@nottingham.ac.uk" rel="nofollow noopener noreferrer">Email</a> |
-| [Hanno Scharr](http://www.fz-juelich.de/ibg/ibg-2/DE/Mitarbeiter/_et/Scharr_Hanno/Scharr.html) | Forschungszentrum Jülich, Germany| <a href="mailto:h.scharr@fz-juelich.de" rel="nofollow noopener noreferrer">Email</a> | 
+| Ian Stavness | Computer Science, University of Saskatchewan, Canada | [Email](mailto:ian.stavness@usask.ca) |
+| [Valerio Giuffrida](http://www.valeriogiuffrida.academy) | School of Computing, Edinburgh Napier University, UK | [Email](mailto:V.Giuffrida@napier.ac.uk) |
+| [Amy Tabb](https://amytabb.com) | United States Department of Agriculture, Agricultural Research Service, USA | [Email](mailto:amy.tabb@usda.gov)|
+| Andrew French | School of Computer Science, University of Nottingham, UK | [Email](mailto:andrew.p.french@nottingham.ac.uk) |
+| Michael Pound | School of Computer Science, University of Nottingham, UK | [Email](mailto:michael.pound@nottingham.ac.uk) |
+| [Sotirios A Tsaftaris](https://vios.science/) | University of Edinburgh, UK | [Email](mailto:s.tsaftaris@ed.ac.uk) |
+| [Tony Pridmore](Computer Vision Laboratory) | University of Nottingham, UK | [Email](mailto:Tony.Pridmore@nottingham.ac.uk) |
+| [Hanno Scharr](http://www.fz-juelich.de/ibg/ibg-2/DE/Mitarbeiter/_et/Scharr_Hanno/Scharr.html) | Forschungszentrum Jülich, Germany| [Email](mailto:h.scharr@fz-juelich.de) | 
 

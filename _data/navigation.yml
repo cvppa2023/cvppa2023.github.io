@@ -2,8 +2,10 @@
 main:
   - title: "Organizers"
     url: /organizers/
-  - title: "Submissions"
-    url: /submissions/
+  - title: "CfP"
+    url: /cfp/
+  - title: "Author Info"
+    url: /authors/
   - title: "Challenges"
     url: /challenges/
   - title: "Important dates"
