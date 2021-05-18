@@ -16,7 +16,7 @@ Please feel free to participate to these challenges and submit your solutions as
 <div id = "wheat"></div>
 ## Global Wheat Challenge.
 
-![Global Wheat Challenge](http://www.global-wheat.com/wp-content/uploads/2019/11/temporary_gwd_logo-2.png "Global wheat challenge logo")
+![Global Wheat Challenge](https://www.cs.usask.ca/faculty/stavness/files/gwc.png "Global wheat challenge logo")
 
 Visit the [2021 challenge at AIcrowd](https://www.aicrowd.com/challenges/global-wheat-challenge-2021) or the [Global Wheat Challenge website](http://www.global-wheat.com "Global Wheat Challenge website") for more information.
 
