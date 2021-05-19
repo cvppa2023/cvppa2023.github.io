@@ -10,7 +10,7 @@ Automatic segmentation of large datasets of plant images allows the analysis of 
 ## Dataset Description
 
 For the challenge, we will present two datasets: 
-- Training Dataset ([download](https://drive.google.com/drive/folders/1_j10DXMeSprowJGVrSqqLQQ3u-JqzM0J?usp=sharing "download"))
+- Training Dataset ([download, Google Drive](https://drive.google.com/drive/folders/1_j10DXMeSprowJGVrSqqLQQ3u-JqzM0J?usp=sharing "download"))
 - Testing Dataset (to be released)
 
 On each dataset, we provide video sequences of arabidopsis plants growing on controlled conditions, on Petri’s boxes for 2-4 weeks. Each video sequence has one frame every 12hrs, with weakly annotations, leading to approx. 5 annotated images per video. 
@@ -29,15 +29,15 @@ The folders are organized in the structure presented on Figure 3, where every ex
 
 We will benchmark the methods considering **both binary and multi-class segmentation**, using the ground-truth annotations produced by expert plant biologists on the dataset provided in the evaluation phase. **Participants will have to submit only the multi-class segmentations, in standard `.nii.gz` format, for every frame of the test dataset keeping the same file name and only changing the extension.** We will then derive the corresponding binary segmentations for evaluation. Results will only be evaluated in the frames where our biologists provided annotations.
 
-Please submit your segmentation files for evaluation to: xxx@xxx.yy
-
 As roots are thin structures, classic segmentation metrics like Dice Score may not fully reflect the quality of the results. Thus, we will evaluate participants using two types of metrics: segmentation and skeleton based metrics. The segmentation metrics will be computed based on the segmentation masks provided by the participants. These segmentations will be skeletonized using Python’s scikit-image [skeletonize](https://scikit-image.org/docs/dev/auto_examples/edges/plot_skeleton.html "skeletonize") and then skeleton metrics will be computed. 
 
-As for the segmentation metrics we will consider: *Dice Coefficient*, *Hausdorff distance*, and* number of connected components*.
+As for the segmentation metrics we will consider: *Dice Coefficient*, *Hausdorff distance*, and *number of connected components*.
 
 For the skeleton metrics we will consider skeleton *completeness* and *correctness* as discussed by [Youssef et al. (2015)](https://ieeexplore.ieee.org/document/7371256 "Youssef et al. (2015)"), and *main root*, *lateral root* and *total root length*, counted as number of pixels from the skeleton.
 
-We will release the testing dataset on xxxxx.
+We will release the testing dataset on a date to be announced.
+
+Please submit your segmentation files for evaluation to: to be announced.
 
 ## Additional Information
 
@@ -46,5 +46,5 @@ We believe our weakly annotated dataset with high spatial and temporal resolutio
 
 ## References
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Youssef, R., Ricordeau, A., Sevestre-Ghalila, S., & Benazza-Benyahya, A. (2015). *Evaluation protocol of skeletonization applied to grayscale curvilinear structures*. In 2015 International Conference on Digital Image Computing: Techniques and Applications (DICTA) (pp. 1-6). IEEE.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Youssef, R., Ricordeau, A., Sevestre-Ghalila, S., & Benazza-Benyahya, A. (2015). *Evaluation protocol of skeletonization applied to grayscale curvilinear structures*. In 2015 International Conference on Digital Image Computing: Techniques and Applications (DICTA) (pp. 1-6). IEEE. [Link: IEEE](https://ieeexplore.ieee.org/document/7371256). [Link: ResearchGate](https://www.researchgate.net/profile/Rabaa-Youssef/publication/281449231_Evaluation_Protocol_of_Skeletonization_Applied_to_Grayscale_Curvilinear_Structures/links/55f700fe08aeafc8abf611fc/Evaluation-Protocol-of-Skeletonization-Applied-to-Grayscale-Curvilinear-Structures.pdf).
 
