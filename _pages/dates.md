@@ -3,7 +3,7 @@ permalink: /dates/
 title: "Important dates"
 ---
 
-## Papers and one-page abstracts
+## Papers and extended abstracts
 
 |Dates       |       |      
 |Submission due (full paper or extended abstract) |   16 July 2021 |
