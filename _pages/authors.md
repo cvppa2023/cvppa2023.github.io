@@ -16,7 +16,7 @@ Both full papers and one-page extended abstracts should be submitted using the t
 The length should not exceed 8 pages excluding the references. Any appendices must precede the reference list. This length is sometimes called 8 + n.
 
 ### Extended abstracts: 
-The length should not exceed 2 page excluding the references, ie. 2 + n.  These papers will appear (after peer review) on the CVPPA website, but will not be part of ICCV proceedings. The same double blind rules apply, see above.  As a guide, extended abstracts should follow a regular paper structure, though abbreviated. This should include an introduction, a description of the work undertaken, the results, and a conclusion. Note that the instructions differed in 2019, but examples of extended abstracts from 2019 can be found [here](https://www.plant-phenotyping.org/CVPPP2019-Proceedings).
+The length should not exceed 2 pages excluding the references, ie. 2 + n.  These papers will appear (after peer review) on the CVPPA website, but will not be part of ICCV proceedings. The same double blind rules apply, see above.  As a guide, extended abstracts should follow a regular paper structure, though abbreviated. This should include an introduction, a description of the work undertaken, the results, and a conclusion. Note that the instructions differed in 2019, but examples of extended abstracts from 2019 can be found [here](https://www.plant-phenotyping.org/CVPPP2019-Proceedings).
 
 ## Full paper policies.
 
