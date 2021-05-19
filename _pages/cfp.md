@@ -7,7 +7,7 @@ title: "Call for Papers"
 Following successful CVPPP workshops from recent years at ECCV, BMVC, ICCV, and CVPR, CVPPP this year is held in conjunction with ICCV 2021. In this seventh workshop we aim to expand the scope of CVPPP to include computer vision research in agriculture more broadly. To reflect this change we have renamed the workshop to **CVPPA: Computer Vision in Plant Phenotyping and Agriculture**. The goal of the workshop remains to extend the state of the art in computer vision for plant and crop applications. 
 
 |Important dates       |       |      
-|Submission due (full paper or extended page abstract) |   16 July 2021 |
+|Submission due (full paper or extended abstract) |   16 July 2021 |
 |Notification of acceptance |  06 August 2021 |
 | Camera-ready (papers and abstracts): | 17 August 2021 |
 | Workshop date: |11, 16 or 17 October 2021 |
