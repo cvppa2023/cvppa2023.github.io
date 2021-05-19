@@ -10,7 +10,7 @@ Paper submission and registration are handled on [CMT](https://cmt3.research.mic
 Please register and submit at CMT *Link To Be Announced*.
 
 ## Formatting your paper for review.
-Both full papers and one-page extended abstracts should be submitted using the template for ICCV 2021.  Papers submitted for review must be anonymous in order to enable double-blind review, and instead include the paper ID as allocated by CMT upon registration of the paper. The addition of line numbers (automatic in the LaTeX template) should be included, in order to facilitate the review process. If in doubt, please refer to [http://iccv2021.thecvf.com/node/4#submission-guidelines](http://iccv2021.thecvf.com/node/4#submission-guidelines).
+Both full papers and extended abstracts should be submitted using the template for ICCV 2021.  Papers submitted for review must be anonymous in order to enable double-blind review, and instead include the paper ID as allocated by CMT upon registration of the paper. The addition of line numbers (automatic in the LaTeX template) should be included, in order to facilitate the review process. If in doubt, please refer to [http://iccv2021.thecvf.com/node/4#submission-guidelines](http://iccv2021.thecvf.com/node/4#submission-guidelines).
 
 ### Full papers:
 The length should not exceed 8 pages excluding the references. Any appendices must precede the reference list. This length is sometimes called 8 + n.
