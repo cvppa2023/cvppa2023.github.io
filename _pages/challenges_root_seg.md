@@ -14,7 +14,7 @@ Automatic segmentation of large datasets of plant images allows the analysis of 
 
 For the challenge, we will present two datasets: 
 - Training Dataset ([download, Google Drive](https://drive.google.com/drive/folders/1_j10DXMeSprowJGVrSqqLQQ3u-JqzM0J?usp=sharing "download"))
-- Testing Dataset: to be released on the the **28th June 2021**
+- Testing Dataset: to be released on the **28th June 2021**
 
 On each dataset, we provide video sequences of arabidopsis plants growing on controlled conditions, on Petri’s boxes for 2-4 weeks. Each video sequence has one frame every 12hrs, with weakly annotations, leading to approx. 5 annotated images per video. 
 
