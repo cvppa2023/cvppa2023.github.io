@@ -6,10 +6,11 @@ title: "Challenges"
 
 This year, we are running the following challenges:
 
-- [Global Wheat Challenge](#wheat),
+- [Global Wheat Challenge](#wheat)
 - [Sorghum Biomass Prediction](#sorghum)
-- [Leaf Segmentation Challenge](#segmentation),
-- [Leaf Counting Challenge](#counting),
+- [Leaf Segmentation Challenge](#segmentation)
+- [Leaf Counting Challenge](#counting)
+- One more challenge to be announced soon.
 
 Please feel free to participate to these challenges and submit your solutions as an extendend abstract or full paper. Visit the [Call for Papers page](/submissions) for further details.   [Valerio Giuffrida](http://www.valeriogiuffrida.academy) is the challenges lead; [contact](mailto:V.Giuffrida@napier.ac.uk) with questions or concerns.
 
