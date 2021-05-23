@@ -7,9 +7,9 @@ title: "Challenges"
 This year, we are running the following challenges:
 
 - [Global Wheat Challenge](#wheat),
+- [Sorghum Biomass Prediction](#sorghum)
 - [Leaf Segmentation Challenge](#segmentation),
 - [Leaf Counting Challenge](#counting),
-- to be announced.
 
 Please feel free to participate to these challenges and submit your solutions as an extendend abstract or full paper. Visit the [Call for Papers page](/submissions) for further details.   [Valerio Giuffrida](http://www.valeriogiuffrida.academy) is the challenges lead; [contact](mailto:V.Giuffrida@napier.ac.uk) with questions or concerns.
 
@@ -19,6 +19,11 @@ Please feel free to participate to these challenges and submit your solutions as
 ![Global Wheat Challenge](https://www.cs.usask.ca/faculty/stavness/files/gwc.png "Global wheat challenge logo")
 
 Visit the [2021 challenge at AIcrowd](https://www.aicrowd.com/challenges/global-wheat-challenge-2021) or the [Global Wheat Challenge website](http://www.global-wheat.com "Global Wheat Challenge website") for more information.
+
+<div id = "sorghum"></div>
+## Sorghum Biomass Prediction
+
+This year we are also introducing a new challenge on *sorghum biomass prediction*. This challenge is run on [Kaggle](https://www.kaggle.com/c/sorghum-biomass-prediction/), where you can find more information about the task and dataset.
 
 <div id = "segmentation"></div>
 ## Leaf Segmentation Challenge.
