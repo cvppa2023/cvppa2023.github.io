@@ -8,9 +8,9 @@ This year, we are running the following challenges:
 
 - [Global Wheat Challenge](#wheat)
 - [Sorghum Biomass Prediction](#sorghum)
+- [Arabidopsis Root Segmentation Challenge](#root_seg)
 - [Leaf Segmentation Challenge](#segmentation)
 - [Leaf Counting Challenge](#counting)
-- One more challenge to be announced soon.
 
 Please feel free to participate to these challenges and submit your solutions as an extendend abstract or full paper. Visit the [Call for Papers page](/submissions) for further details.   [Valerio Giuffrida](http://www.valeriogiuffrida.academy) is the challenges lead; [contact](mailto:V.Giuffrida@napier.ac.uk) with questions or concerns.
 
@@ -25,6 +25,22 @@ Visit the [2021 challenge at AIcrowd](https://www.aicrowd.com/challenges/global-
 ## Sorghum Biomass Prediction
 
 This year we are also introducing a new challenge on *sorghum biomass prediction*. This challenge is run on [Kaggle](https://www.kaggle.com/c/sorghum-biomass-prediction/), where you can find more information about the task and dataset.
+
+<div id = "sorghum"></div>
+## Sorghum Biomass Prediction
+
+This year we are also introducing a new challenge on *sorghum biomass prediction*. This challenge is run on [Kaggle](https://www.kaggle.com/c/sorghum-biomass-prediction/), where you can find more information about the task and dataset.
+
+<div id = "root_seg"></div>
+## Arabidopsis Root Segmentation Challenge
+
+A new segmentation challenge is available this year on a semi-annotated dataset of Arabidopsis thaliana root images.
+
+<div>
+  <img src="/assets/img/image_2.png" style="width:50%">
+</div>
+
+[Details about this challenge can be found here.](https://cvppa2021.github.io/challenges/root_seg)
 
 <div id = "segmentation"></div>
 ## Leaf Segmentation Challenge.
