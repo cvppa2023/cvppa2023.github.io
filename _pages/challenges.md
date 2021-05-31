@@ -40,7 +40,7 @@ A new segmentation challenge is available this year on a semi-annotated dataset 
   <img src="/assets/img/image_2.png" style="width:50%">
 </div>
 
-[Details about this challenge can be found here.](https://cvppa2021.github.io/challenges/root_seg)
+[Details about this challenge can be found here.](https://sites.google.com/sinc.unl.edu.ar/root-segmentation-challenge/home)
 
 <div id = "segmentation"></div>
 ## Leaf Segmentation Challenge.
