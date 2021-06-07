@@ -10,6 +10,8 @@ main:
     url: /challenges/
   - title: "Important dates"
     url: /dates/
+  - title: "Speakers"
+    url: /speakers/
   # - title: "Program"
   #  url: /program/
   - title: "Contact"

@@ -26,11 +26,6 @@ Visit the [2021 challenge at AIcrowd](https://www.aicrowd.com/challenges/global-
 
 This year we are also introducing a new challenge on *sorghum biomass prediction*. This challenge is run on [Kaggle](https://www.kaggle.com/c/sorghum-biomass-prediction/), where you can find more information about the task and dataset.
 
-<div id = "sorghum"></div>
-## Sorghum Biomass Prediction
-
-This year we are also introducing a new challenge on *sorghum biomass prediction*. This challenge is run on [Kaggle](https://www.kaggle.com/c/sorghum-biomass-prediction/), where you can find more information about the task and dataset.
-
 <div id = "root_seg"></div>
 ## Arabidopsis Root Segmentation Challenge
 
