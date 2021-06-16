@@ -9,7 +9,7 @@ title: "Important dates"
 |Submission due (full paper or extended abstract) |   16 July 2021 |
 |Notification of acceptance |  06 August 2021 |
 |Camera-ready (papers and abstracts): | 17 August 2021 |
-|Workshop date: |11, 16 or 17 October 2021 |
+|Workshop date: |11 October 2021 (afternoon) |
 
 ## Challenges
 
