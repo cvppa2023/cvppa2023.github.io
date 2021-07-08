@@ -11,6 +11,8 @@ Following successful CVPPP workshops from recent years at ECCV, BMVC, ICCV, and 
 |Notification of acceptance |  06 August 2021 |
 | Camera-ready (papers and abstracts): | 17 August 2021 |
 | Workshop date: | 11 October 2021 |
+
+Paper Submission on [CMT](https://cmt3.research.microsoft.com/CVPPA2021)
  
 ## Workshop topics
  
