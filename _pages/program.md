@@ -15,7 +15,7 @@ hidden: true
 <!-- <i class="fas fa-fw fa-envelope-square" aria-hidden="true"> -->
 
 |﻿Time|Paper #|Title|Authors|Type|
-|1:00-1:10||Welcome|||
+|1:00-1:10||**Welcome**|||
 |1:00-1:25||Invited Speaker 1: Ribana Roscher|||
 |1:25-1:50||Session: Seeds, fruits and roots|||
 ||21|Machine learning and optimal transport meet distinctness in variety testing|Geoffroy Couasnet (INRAe); Mouad Zine El Abidine (Université d'Angers); François Laurens (INRAe); Helin Dutagaci; David Rousseau (Université d'Angers)|Full paper|
