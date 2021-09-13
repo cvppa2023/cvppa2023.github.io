@@ -16,8 +16,8 @@ hidden: true
 
 |﻿Time|Paper #|Title|Authors|Type|
 |1:00-1:10|Welcome||||
-|1:00-1:25|Invited Speaker 1: Ribana Roscher||||
-|1:25-1:50|Session: Seeds, fruits and roots||||
+|1:00-1:25||Invited Speaker 1: Ribana Roscher|||
+|1:25-1:50||Session: Seeds, fruits and roots|||
 ||21|Machine learning and optimal transport meet distinctness in variety testing|Geoffroy Couasnet (INRAe); Mouad Zine El Abidine (Laboratoire LARIS, Université d'Angers); François Laurens (INRAe); Helin Dutagaci (Université d'Angers); David ROUSSEAU (Université d'Angers)*|Full paper|
 ||19|Analysis of Arabidopsis Root Images --- Studies on CNNs and Skeleton-Based Root Topology|Birgit Moeller (Martin Luther University Halle-Wittenberg)*; Berit Schreck (Martin Luther University Halle-Wittenberg); Stefan Posch (Martin Luther University Halle-Wittenberg)|Full paper|
 ||28|Identification and Measurement of Individual Roots in Minirhizotron Images of Dense Root Systems|Alexander Gillert (Fraunhofer IGD)*; Bo Peters (Greifswald University); Uwe Freiherr von Lukas (Fraunhofer IGD); Jürgen Kreyling (Greifswald University)|Full paper|
@@ -52,7 +52,7 @@ hidden: true
 ||1|LeafMask: Towards Greater Accuracy on Leaf Segmentation|Ruohao Guo (China Agricultural University)*; Liao Qu (China Agricultural University); Dantong Niu (University of California Berkeley); Zhenbo Li (China Agricultural University); Jun Yue (Ludong University)|Full paper|
 ||2|Tip-burn stress detection of lettuce canopy grown in Plant Factories|Riccardo Gozzovelli (University of Rome Sapienza); Benjamin Franchetti (Agricola Moderna); Malik Bekmurat (Agricola Moderna); fiora pirri (University of Rome Sapienza)*|Full paper|
 ||41|Visualizing Feature Maps for Model Selection in Convolutional Neural Networks|Sakib Mostafa (University of Saskatchewan)*; Debajyoti Mondal (University of Saskatchewan); Michael A Beck (University of Winnipeg); Christopher Bidinosti (University of Winnipeg); Christopher Henry (University of Winnipeg); Ian Stavness (University of Saskatchewan)|Full paper|
-||24|The Effects of Model Certainty, Test-Time Augmentation| and Their Trade-Offs on Leaf Segmentation and Counting|Douglas PS Gomes (Charles Sturt University)*; Lihong  Zheng (Charles Sturt University Australia)|Extended abstract |
+||24|The Effects of Model Certainty, Test-Time Augmentation, and Their Trade-Offs on Leaf Segmentation and Counting|Douglas PS Gomes (Charles Sturt University)*; Lihong  Zheng (Charles Sturt University Australia)|Extended abstract |
 |4:20-4:40|Session: Wheat challenge||||
 ||14|Dynamic Color Transform for Wheat Head Detection|Chengxin Liu (Huazhong University of Science and Technology)*; Kewei Wang (Huazhong Univ. of Sci.&Tech.); Hao Lu (Huazhong University of Science and Technology); Zhiguo Cao (Huazhong Univ. of Sci.&Tech.)|Full paper|
 ||35|A Semi-self-supervised Learning Approach for Wheat Head Detection using Extremely Small Number of Labeled Samples|Keyhan Najafian (University of Saskatchewan); Alireza Ghanbari (University of Qom	); Ian Stavness (University of Saskatchewan); Lingling Jin (University of Saskatchewan); Gholam Hassan Shirdel (University of Qom); Farhad Maleki (McGill University)*|Full paper|
