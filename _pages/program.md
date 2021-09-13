@@ -16,9 +16,9 @@ hidden: true
 
 |﻿Time|Paper #|Title|Authors|Type|
 |1:00-1:10||Welcome|||
-|1:00-1:25|<td colspan=2>Invited Speaker 1: Ribana Roscher||
+|1:00-1:25||Invited Speaker 1: Ribana Roscher|||
 |1:25-1:50||Session: Seeds, fruits and roots|||
-||21|Machine learning and optimal transport meet distinctness in variety testing|Geoffroy Couasnet (INRAe); Mouad Zine El Abidine ( Université d'Angers); François Laurens (INRAe); Helin Dutagaci; David Rousseau (Université d'Angers)|Full paper|
+||21|Machine learning and optimal transport meet distinctness in variety testing|Geoffroy Couasnet (INRAe); Mouad Zine El Abidine (Université d'Angers); François Laurens (INRAe); Helin Dutagaci; David Rousseau (Université d'Angers)|Full paper|
 ||19|Analysis of Arabidopsis Root Images --- Studies on CNNs and Skeleton-Based Root Topology|Birgit Moeller; Berit Schreck; Stefan Posch (Martin Luther University Halle-Wittenberg)|Full paper|
 ||28|Identification and Measurement of Individual Roots in Minirhizotron Images of Dense Root Systems|Alexander Gillert (Fraunhofer IGD); Bo Peters (Greifswald University); Uwe Freiherr von Lukas (Fraunhofer IGD); Jürgen Kreyling (Greifswald University)|Full paper|
 ||9|A Preliminary Study on Germinated Oil Palm Seeds Quality Classification with Convolutional Neural Networks|Iman Yi Liao; Brandon Soo (University of Nottingham Malaysia); Ziyan Chen; Mohammad Fakhry Jelani; Choo Kien Wong; Wei Chee Wong (Applied Agricultural Resources Sdn. Bhd.)|Extended abstract|
