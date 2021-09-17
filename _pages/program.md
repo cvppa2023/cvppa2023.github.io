@@ -37,7 +37,7 @@ October 11, 2021 (times are Eastern Daylight Time)
 ||15|Stomata segmentation using deep learning|Miguel Alonso (Universidad de La Rioja); Ángela Casado-García; Jónathan Heras (Universidad de La Rioja)|Extended abstract|
 ||20|Automated Surface Area Estimation of Plants based on 3D Point Clouds|Lina M Zabawa; Laura Zabawa; Felix Esser; Lasse Klingbeil; Heiner Kuhlmann (Universität Bonn)|Extended abstract|
 |14:45-15:00||**Break**|||
-|15:00-15:25||**Invited SpeakerS 2: Peter McCloskey, Winnie Onyango, and Annalyse Kehs**|**PlantVillage Nuru: An offline AI assistant for disease diagnostics in food crops**||
+|15:00-15:25||**Invited Speaker 2: Peter McCloskey, Winnie Onyango, and Annalyse Kehs**|**PlantVillage Nuru: An offline AI assistant for disease diagnostics in food crops**||
 |15:25-15:45||**Session: Regression & Classification Problems**|||
 ||42|Predicting Protein Content in Grain Using Hyperspectral Deep Learning|Ole-Christian Galbo Engstrøm (Foss Analytical A/S); Erik Dreier (UCPH FOOD); Kim Steenstrup Pedersen (University of Copenhagen)|Full paper|
 ||52|An End-to-End Deep RNN based Network Structure to Precisely Regress the Height of Lettuce by Single Perspective Sparse Point Cloud|Jingsong Li; Xiyue Guo; Ying Wang; Maowei Li; Lihua Zheng; Minjuan Wang (China Agricultural University)|Extended abstract|
