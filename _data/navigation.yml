@@ -2,20 +2,20 @@
 main:
   - title: "Organizers"
     url: /organizers/
-  - title: "CfP"
-    url: /cfp/
+  - title: "Program"
+    url: /program/
+  - title: "Speakers"
+    url: /speakers/
   - title: "Author Info"
     url: /authors/
   - title: "Challenges"
     url: /challenges/
   - title: "Important dates"
     url: /dates/
-  - title: "Speakers"
-    url: /speakers/
-  # - title: "Program"
-  #  url: /program/
   - title: "Contact"
     url: /contact/
+  - title: "CfP"
+    url: /cfp/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
