@@ -20,7 +20,7 @@ October 11, 2021 (times are Eastern Daylight Time)
 |13:00-13:05||**Welcome**|||
 |13:05-13:30||**Invited Speaker 1: Ribana Roscher**|**Deep Generative Models for Smart Agriculture**||
 |13:30-13:55||**Session: Seeds, Fruits and Roots**|||
-||21|Machine learning and optimal transport meet distinctness in variety testing|Geoffroy Couasnet (INRAe); Mouad Zine El Abidine (Université d'Angers); François Laurens (INRAe); Helin Dutagaci; David Rousseau (Université d'Angers)|Full paper [paper](https://www.cs.usask.ca/faculty/stavness/cvppa2021/papers/Couasnet_21.pdf) [presentation](https://www.cs.usask.ca/faculty/stavness/cvppa2021/papers/Couasnet_21.pdf)|
+||21|Machine learning and optimal transport meet distinctness in variety testing|Geoffroy Couasnet (INRAe); Mouad Zine El Abidine (Université d'Angers); François Laurens (INRAe); Helin Dutagaci; David Rousseau (Université d'Angers)|Full paper [paper](https://www.cs.usask.ca/faculty/stavness/cvppa2021/papers/Couasnet_21.pdf) [presentation](https://www.cs.usask.ca/faculty/stavness/cvppa2021/papers/Couasnet_21.mp4)|
 ||19|Analysis of Arabidopsis Root Images --- Studies on CNNs and Skeleton-Based Root Topology|Birgit Moeller; Berit Schreck; Stefan Posch (Martin Luther University Halle-Wittenberg)|Full paper|
 ||28|Identification and Measurement of Individual Roots in Minirhizotron Images of Dense Root Systems|Alexander Gillert (Fraunhofer IGD); Bo Peters (Greifswald University); Uwe Freiherr von Lukas (Fraunhofer IGD); Jürgen Kreyling (Greifswald University)|Full paper|
 ||9|A Preliminary Study on Germinated Oil Palm Seeds Quality Classification with Convolutional Neural Networks|Iman Yi Liao; Brandon Soo (University of Nottingham Malaysia); Ziyan Chen; Mohammad Fakhry Jelani; Choo Kien Wong; Wei Chee Wong (Applied Agricultural Resources Sdn. Bhd.)|Abstract|
@@ -34,7 +34,7 @@ October 11, 2021 (times are Eastern Daylight Time)
 ||13|Enlisting 3D Crop Models and GANs for More Data Efficient and Generalizable Fruit Detection|Zhenghao Fei ; Alexander G Olenskyj ; Brian N Bailey ; Mason Earles (University of California, Davis)|Full paper|
 ||43|Leaf Area Estimation by Semantic Segmentation of Point Cloud of Tomato Plants|Takeshi Masuda (National Institute of Advanced Industrial Science and Technology)|Full paper|
 ||10|Transferring PointNet++ Segmentation from Virtual to Real Plants|Ayan Chaudhury (INRIA); Peter Hanappe (Sony CSL Paris); Romain Azais (INRIA); Christophe Godin (INRIA); David Colliaux (Sony CSL)|Abstract|
-||15|Stomata segmentation using deep learning|Miguel Alonso (Universidad de La Rioja); Ángela Casado-García; Jónathan Heras (Universidad de La Rioja)|Abstract|
+||15|Stomata segmentation using deep learning|Miguel Alonso (Universidad de La Rioja); Ángela Casado-García; Jónathan Heras (Universidad de La Rioja)|Abstract [paper](https://www.cs.usask.ca/faculty/stavness/cvppa2021/papers/Alonso_15.pdf) [presentation](https://www.cs.usask.ca/faculty/stavness/cvppa2021/papers/Alonso_15.mp4)|
 ||20|Automated Surface Area Estimation of Plants based on 3D Point Clouds|Lina M Zabawa; Laura Zabawa; Felix Esser; Lasse Klingbeil; Heiner Kuhlmann (Universität Bonn)|Abstract|
 |14:45-15:00||**Break**|||
 |15:00-15:25||**Invited Speaker 2: Peter McCloskey, Winnie Onyango, and Annalyse Kehs**|**PlantVillage Nuru: An offline AI assistant for disease diagnostics in food crops**||
