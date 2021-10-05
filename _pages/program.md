@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /program/
-title: "Tentative Program"
+title: "Workshop Program"
 hidden: true
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
