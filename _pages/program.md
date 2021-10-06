@@ -16,7 +16,7 @@ hidden: true
 <!-- |![Alt text](https://amytabb.com/images/amy_tabb_sep_2018.jpg)| temp|-->
 <!-- <i class="fas fa-fw fa-envelope-square" aria-hidden="true"> -->
 
-October 11, 2021 (times are Eastern Daylight Time)
+October 11, 2021 (times are Eastern Daylight Time, UTC/GMT-4)
 
 |﻿Time|Paper#|Title|Authors|Links|
 |13:00-13:05||**Welcome**|||
