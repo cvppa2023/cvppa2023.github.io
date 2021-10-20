@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /program/
-title: "Workshop Program"
+title: "Workshop Program & Recording"
 hidden: true
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
@@ -16,9 +16,13 @@ hidden: true
 <!-- |![Alt text](https://amytabb.com/images/amy_tabb_sep_2018.jpg)| temp|-->
 <!-- <i class="fas fa-fw fa-envelope-square" aria-hidden="true"> -->
 
+<br>
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8xbaPwXNtlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+<br>
 
 October 11, 2021 (times are Eastern Daylight Time, UTC/GMT-4)
 
