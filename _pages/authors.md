@@ -3,14 +3,14 @@ permalink: /authors/
 title: "Author Info"
 ---
 
-We follow closely the ICCV 2021 [formatting and submission guidelines](http://iccv2021.thecvf.com/node/4#submission-guidelines), however using a different webpage on the CMT paper submission site. The peer-review process is double blind, as usual, in order to ensure unbiased reviews and highest paper quality.
+We follow closely the ICCV 2023 [formatting and submission guidelines](https://iccv2023.thecvf.com/submission.guidelines-361600-2-20-16.php), however using a different webpage on the CMT paper submission site. The peer-review process is double blind, as usual, in order to ensure unbiased reviews and highest paper quality.
 
-Paper submission and registration are handled on [CMT](https://cmt3.research.microsoft.com/CVPPA2021). Paper registration is performed by registering as a user with CMT and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission. Some common questions about submission are addressed in the ICCV [FAQs](http://iccv2021.thecvf.com/node/4#authors-faqs).
+Paper submission and registration are handled on [CMT](https://cmt3.research.microsoft.com/CVPPA2023). Paper registration is performed by registering as a user with CMT and entering a paper title and abstract. This will result in the allocation of a “paper ID”, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission. Some common questions about submission are addressed in the ICCV [FAQs](https://iccv2023.thecvf.com/author.faqs-361800-2-20-18.php).
 
-Please register and submit at CMT: https://cmt3.research.microsoft.com/CVPPA2021/
+Please register and submit at CMT: https://cmt3.research.microsoft.com/CVPPA2023/
 
 ## Formatting your paper for review.
-Both full papers and extended abstracts should be submitted using the template for ICCV 2021.  Papers submitted for review must be anonymous in order to enable double-blind review, and instead include the paper ID as allocated by CMT upon registration of the paper. The addition of line numbers (automatic in the LaTeX template) should be included, in order to facilitate the review process. If in doubt, please refer to [http://iccv2021.thecvf.com/node/4#submission-guidelines](http://iccv2021.thecvf.com/node/4#submission-guidelines).
+Both full papers and extended abstracts should be submitted using the template for ICCV 2023.  Papers submitted for review must be anonymous in order to enable double-blind review, and instead include the paper ID as allocated by CMT upon registration of the paper. The addition of line numbers (automatic in the LaTeX template) should be included, in order to facilitate the review process. If in doubt, please refer to [https://iccv2023.thecvf.com/submission.guidelines-361600-2-20-16.php](https://iccv2023.thecvf.com/submission.guidelines-361600-2-20-16.php)
 
 ### Full papers:
 The length should not exceed 8 pages excluding the references. Any appendices must precede the reference list. This length is sometimes called 8 + n.
