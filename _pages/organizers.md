@@ -13,7 +13,7 @@ hidden: true
 <!-- |![Alt text](https://amytabb.com/images/amy_tabb_sep_2018.jpg)| temp|-->
 <!-- <i class="fas fa-fw fa-envelope-square" aria-hidden="true"> -->
 
-| [Ian Stavness](https://www.cs.usask.ca/faculty/stavness/) | Computer Science, University of Saskatchewan, Canada | [Email](mailto:ian.stavness@usask.ca) |
+| [Ian K Stavness](https://www.cs.usask.ca/faculty/stavness/) | Computer Science, University of Saskatchewan, Canada | [Email](mailto:ian.stavness@usask.ca) |
 | [Valerio Giuffrida](http://www.valeriogiuffrida.academy) | School of Computing, Edinburgh Napier University, UK | [Email](mailto:V.Giuffrida@napier.ac.uk) |
 | [Amy Tabb](https://amytabb.com) | United States Department of Agriculture, Agricultural Research Service, USA | [Email](mailto:amy.tabb@usda.gov)|
 | Andrew French | School of Computer Science, University of Nottingham, UK | [Email](mailto:andrew.p.french@nottingham.ac.uk) |
