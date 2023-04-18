@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "contrast" #"air" # "default" # "air", "aqua", "contr
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CVPPA 2021 Workshop"
+title                    : "CVPPA 2023 Workshop"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "CVPPA 2021"
+name                     : "CVPPA 2023"
 description              : "7th workshop on Computer Vision in Plant Phenotyping and Agriculture."
-url                      : https://cvppa2021.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cvppa2023.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "cvppa2021/cvppa2021.github.io"
+repository               : "cvppa2023/cvppa2023.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -72,7 +72,7 @@ last_updated: true
 
 # Social Sharing
 twitter:
-  username               : cvppa2021
+  username               : cvppa2023
 facebook:
   username               :
   app_id                 :
@@ -92,26 +92,26 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-# location         : "ICCV 2021"
+# location         : "ICCV 2023"
 # Site Author
 author:
   name             : 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "7th workshop on Computer Vision in Plant Phenotyping and Agriculture." 
+  bio              : "8th workshop on Computer Vision in Plant Phenotyping and Agriculture." 
   email            :
   links:
-    - label: "ICCV 2021"
+    - label: "ICCV 2023"
       icon: "fas fa-fw fa-map-marker-alt"
-      url: "http://iccv2021.thecvf.com/"
+      url: "http://iccv2023.thecvf.com/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cvppa2021"
+      url: "https://twitter.com/cvppa2023"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cvppp2021@gmail.com"
+      url: "mailto:cvppp2023@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -127,7 +127,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cvppa2021"
+      url: "https://twitter.com/cvppa2023"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
