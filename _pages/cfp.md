@@ -4,15 +4,15 @@ title: "Call for Papers"
 ---
 
 
-Following successful CVPPP workshops from recent years at ECCV, BMVC, ICCV, and CVPR, CVPPP this year is held in conjunction with ICCV 2021. In this seventh workshop we aim to expand the scope of CVPPP to include computer vision research in agriculture more broadly. To reflect this change we have renamed the workshop to **CVPPA: Computer Vision in Plant Phenotyping and Agriculture**. The goal of the workshop remains to extend the state of the art in computer vision for plant and crop applications. 
+Following successful CVPPP workshops from recent years at ECCV, BMVC, ICCV, and CVPR, CVPPP this year is held in conjunction with ICCV 2023. In this eighth workshop we aim to expand the scope of CVPPP to include computer vision research in agriculture more broadly. To reflect this change we have renamed the workshop to **CVPPA: Computer Vision in Plant Phenotyping and Agriculture**. The goal of the workshop remains to extend the state of the art in computer vision for plant and crop applications. 
 
 |Important dates       |       |      
-|Submission due (full paper or extended abstract) |   16 July 2021 |
-|Notification of acceptance |  06 August 2021 |
-| Camera-ready (papers and abstracts): | 17 August 2021 |
-| Workshop date: | 11 October 2021 |
+|Submission due (full paper or extended abstract) | TBA | 
+|Notification of acceptance | TBA | 
+| Camera-ready (papers and abstracts): | TBA | 
+| Workshop date: | TBA | 
 
-Paper Submission on [CMT](https://cmt3.research.microsoft.com/CVPPA2021)
+Paper Submission on [CMT](https://cmt3.research.microsoft.com/CVPPA2023)
  
 ## Workshop topics
  
@@ -35,18 +35,8 @@ Specific topics of interest include, but are not limited to, the following:
  
 ## Further information and submission guidelines: 
  
-We welcome both full papers and extended abstracts. Full papers will be included in the ICCV 2021 proceedings while extended abstracts will appear only on the CVPPA website. Full papers as well as abstracts undergo double blind peer-review. Further information about the workshop, [author instructions, submission guidelines](/authors/), and the [challenges](/challenges/) are available at this website, https://cvppa2021.github.io/ . 
+We welcome both full papers and extended abstracts. Full papers will be included in the ICCV 2023 proceedings while extended abstracts will appear only on the CVPPA website. Full papers as well as abstracts undergo double blind peer-review. Further information about the workshop, [author instructions, submission guidelines](/authors/), and the [challenges](/challenges/) are available at this website, https://cvppa2023.github.io/ . 
  
 We are looking forward to inspiring solutions for automated plant phenotyping and agricultural applications! 
  
  
-## Workshop Organizers
- 
-|Ian Stavness (University of Saskatchewan, Canada)| Ian.Stavness@usask.ca |
-|Valerio Giuffrida (Edinburgh Napier University, UK)| V.Giuffrida@napier.ac.uk |
-|Amy Tabb (US Dept. of Agriculture, Agricultural Research Service, USA)| amy.tabb@usda.gov |
-|Michael Pound (University of Nottingham, UK)| Michael.Pound@nottingham.ac.uk| 
-|Andrew French (University of Nottingham, UK)| Andrew.P.French@nottingham.ac.uk |
-|Tony Pridmore (University of Nottingham, UK)| Tony.Pridmore@nottingham.ac.uk |
-|Sotirios A. Tsaftaris (University of Edinburgh, UK)| S.Tsaftaris@ed.ac.uk |
-|Hanno Scharr (Forschungszentrum Jülich, Germany)| H.Scharr@fz-juelich.de |
