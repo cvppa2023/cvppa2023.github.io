@@ -18,6 +18,7 @@ hidden: true
 | [Ian Stavness](https://www.cs.usask.ca/faculty/stavness/) | Computer Science, University of Saskatchewan, Canada | [Email](mailto:ian.stavness@usask.ca) |
 | [Valerio Giuffrida](http://www.valeriogiuffrida.academy) | School of Computing, Edinburgh Napier University, UK | [Email](mailto:V.Giuffrida@napier.ac.uk) |
 | Andrew French | School of Computer Science, University of Nottingham, UK | [Email](mailto:andrew.p.french@nottingham.ac.uk) |
+| [Monica Herrero-Huerta](https://https://monicaherrerohuerta.webnode.com) | University of Salamanca | [Email](mailto:monicaherrero@usal.es)|
 | [David Rousseau](https://okina.univ-angers.fr/david-rousseau) | Université d'Angers | [Email](mailto:david.rousseau@univ-angers.fr)|
 | [Jens Behleyi](http://jbehley.github.io) | Institute of Geodesy and Geoinformation, University of Bonn, Germay | [Email](mailto:jens.behley@igg.uni-bonn.de) |
 | Feng Chen | School of Engineering, University of Edinburgh, UK | [Email](mailto:feng.chen@ed.ac.uk) |
