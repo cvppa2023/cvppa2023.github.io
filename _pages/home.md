@@ -7,11 +7,11 @@ hidden: true
 
 This workshop plans to showcase the challenges raised by working on computer vision for plant phenotyping and agriculture. Workshop goals include demonstrating the state-of-the-art, identifying key unsolved problems, and introducing computer scientists with an interest in plant phenotyping to the field. Effective plant phenotyping is urgently needed to support the sustainability of our planet and its inhabitants: having strong community structures and computer vision scientists enter this field is more crucial now than ever.
 
-This half-day workshop will be held October (date TBA) at [ICCV 2023](http://iccv2023.thecvf.com/), the International Conference on Computer Vision, October 2-6, 2023. 
+This half-day workshop will be held October in the afternoon of 2nd October at [ICCV 2023](http://iccv2023.thecvf.com/), the International Conference on Computer Vision, which runs from October 2-6, 2023. 
 
 The workshop will have paper tracks and challenges, please check back frequently for updates or follow us on [Twitter](https://twitter.com/cvppa2021).
 
-Paper submission deadline: TBA 
+Paper submission deadline: 21st July 2023
 
 [Paper Submission on CMT](https://cmt3.research.microsoft.com/CVPPA2023/)
 
