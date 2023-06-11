@@ -21,8 +21,7 @@ hidden: true
 | [Valerio Giuffrida](http://www.valeriogiuffrida.academy) | School of Computing, Edinburgh Napier University, UK | [Email](mailto:V.Giuffrida@napier.ac.uk) |
 | Andrew French | School of Computer Science, University of Nottingham, UK | [Email](mailto:andrew.p.french@nottingham.ac.uk) |
 | [Monica Herrero-Huerta](https://monicaherrerohuerta.webnode.com) | Higher Polytechnic School of Avila, University of Salamanca, Spain | [Email](mailto:monicaherrero@usal.es)|
-| [David Rousseau](https://okina.univ-angers.fr/david-rousseau) | 
-Laboratoire Angevin de Recherche en Ingénierie des Systèmes, Université d'Angers, France | [Email](mailto:david.rousseau@univ-angers.fr)|
+| [David Rousseau](https://okina.univ-angers.fr/david-rousseau) | Laboratoire Angevin de Recherche en Ingénierie des Systèmes, Université d'Angers, France | [Email](mailto:david.rousseau@univ-angers.fr)|
 | [Jens Behley](http://jbehley.github.io) | Institute of Geodesy and Geoinformation, University of Bonn, Germany | [Email](mailto:jens.behley@igg.uni-bonn.de) |
 | Feng Chen | School of Engineering, University of Edinburgh, UK | [Email](mailto:feng.chen@ed.ac.uk) |
 | [Sotirios A Tsaftaris](https://vios.science/) | Machine Learning and Computer Vision, University of Edinburgh, UK | [Email](mailto:s.tsaftaris@ed.ac.uk) |
@@ -30,6 +29,7 @@ Laboratoire Angevin de Recherche en Ingénierie des Systèmes, Université d'Ang
 | [Hanno Scharr](https://www.fz-juelich.de/profile/scharr_h) | Data Analytics and Machine Learning, Research Center Jülich, Germany| [Email](mailto:h.scharr@fz-juelich.de) | 
 
 ## Challenge Organizers
+
 | [Jens Behley](http://jbehley.github.io) | Institute of Geodesy and Geoinformation, University of Bonn, Germany | [Email](mailto:jens.behley@igg.uni-bonn.de) |
 | [Jinhui Yi] | Institute of Computer Science, University of Bonn, Germany | [Email](mailto:jinhui.yi@uni-bonn.de) |
 | [Jürgen Gall](https://pages.iai.uni-bonn.de/gall_juergen/) | Institute of Computer Science, University of Bonn, Germany | [Email](mailto:gall@iai.uni-bonn.de) |
