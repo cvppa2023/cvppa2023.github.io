@@ -11,9 +11,7 @@ title: "Important dates"
 |Camera-ready (papers and abstracts): | 21 August 2023 | 
 |Workshop date: | 2 October 2023 (PM) | 
 
-We are pushing deadline to 21 July, so I think notification to 11 Aug (still 3 weeks.). Camera ready Aug 21?
-
 ## Challenges
 
-We are running two challenges this year, and details on these will be released very soon - within the next couple of weeks.
+We are running two challenges this year, and details on these will be released within the next days.
 
