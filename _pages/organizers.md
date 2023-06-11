@@ -31,8 +31,8 @@ Laboratoire Angevin de Recherche en Ingénierie des Systèmes, Université d'Ang
 
 ## Challenge Organizers
 | [Jens Behley](http://jbehley.github.io) | Institute of Geodesy and Geoinformation, University of Bonn, Germany | [Email](mailto:jens.behley@igg.uni-bonn.de) |
-| [Jinhui Yi] | Institute of Computer Science, University of Bonn, Germany | [Email](mailto:	jinhui.yi@uni-bonn.de) |
-| [Jürgen Gall](https://pages.iai.uni-bonn.de/gall_juergen/) | Institute of Computer Science, University of Bonn, Germany | [Email](mailto:	gall@iai.uni-bonn.de) |
-| [Sabine Seidel](https://www.lap.uni-bonn.de/de/mitarbeiter/aktuelle/wissenschaftliche-mitarbeiter/sabine-seidel) | Institute of Crop Science and Resource Conservation, University of Bonn, Germany | [Email](mailto:	sabine.seidel@uni-bonn.de) |
+| [Jinhui Yi] | Institute of Computer Science, University of Bonn, Germany | [Email](mailto:jinhui.yi@uni-bonn.de) |
+| [Jürgen Gall](https://pages.iai.uni-bonn.de/gall_juergen/) | Institute of Computer Science, University of Bonn, Germany | [Email](mailto:gall@iai.uni-bonn.de) |
+| [Sabine Seidel](https://www.lap.uni-bonn.de/de/mitarbeiter/aktuelle/wissenschaftliche-mitarbeiter/sabine-seidel) | Institute of Crop Science and Resource Conservation, University of Bonn, Germany | [Email](mailto:sabine.seidel@uni-bonn.de) |
 
 
