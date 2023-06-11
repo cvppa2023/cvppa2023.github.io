@@ -13,6 +13,8 @@ hidden: true
 <!-- |![Alt text](https://amytabb.com/images/amy_tabb_sep_2018.jpg)| temp|-->
 <!-- <i class="fas fa-fw fa-envelope-square" aria-hidden="true"> -->
 
+## Workshop Organizers
+
 | Michael Pound | School of Computer Science, University of Nottingham, UK | [Email](mailto:michael.pound@nottingham.ac.uk) |
 | [Ribana Roscher](http://rs.ipb.uni-bonn.de) | Data Science for Crop Systems, Research Center Jülich, Germany | [Email](mailto:ribana.roscher@uni-bonn.de) |
 | [Ian Stavness](https://www.cs.usask.ca/faculty/stavness/) | Computer Science, University of Saskatchewan, Canada | [Email](mailto:ian.stavness@usask.ca) |
@@ -26,4 +28,11 @@ Laboratoire Angevin de Recherche en Ingénierie des Systèmes, Université d'Ang
 | [Sotirios A Tsaftaris](https://vios.science/) | Machine Learning and Computer Vision, University of Edinburgh, UK | [Email](mailto:s.tsaftaris@ed.ac.uk) |
 | [Tony Pridmore](https://www.nottingham.ac.uk/computerscience/people/tony.pridmore) | School of Computer Science, University of Nottingham, UK | [Email](mailto:Tony.Pridmore@nottingham.ac.uk) |
 | [Hanno Scharr](https://www.fz-juelich.de/profile/scharr_h) | Data Analytics and Machine Learning, Research Center Jülich, Germany| [Email](mailto:h.scharr@fz-juelich.de) | 
+
+## Challenge Organizers
+| [Jens Behley](http://jbehley.github.io) | Institute of Geodesy and Geoinformation, University of Bonn, Germany | [Email](mailto:jens.behley@igg.uni-bonn.de) |
+| [Jinhui Yi] | Institute of Computer Science, University of Bonn, Germany | [Email](mailto:	jinhui.yi@uni-bonn.de) |
+| [Jürgen Gall](https://pages.iai.uni-bonn.de/gall_juergen/) | Institute of Computer Science, University of Bonn, Germany | [Email](mailto:	gall@iai.uni-bonn.de) |
+| [Sabine Seidel](https://www.lap.uni-bonn.de/de/mitarbeiter/aktuelle/wissenschaftliche-mitarbeiter/sabine-seidel) | Institute of Crop Science and Resource Conservation, University of Bonn, Germany | [Email](mailto:	sabine.seidel@uni-bonn.de) |
+
 
