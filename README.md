@@ -1,5 +1,5 @@
-# cvppa2021.github.io
-Website for the 2021 ICCV workshop: Computer Vision in Plant Phenotyping and Agriculture
+# cvppa2023.github.io
+Website for the 2023 ICCV workshop: Computer Vision in Plant Phenotyping and Agriculture
 
 Pages to edit are in the `_pages` directory.  You can push to main or a new branch, your choice.
 
