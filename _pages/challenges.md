@@ -27,10 +27,10 @@ More specifically, methods have to predict a semantic segmentation of sugar beet
 Please contact [Jens Behley](mailto:jens.behley@igg.uni-bonn.de) if you have specific questions about this competition 
 and concerns regarding the submission on CodaLab.
 
-<div id = "hps_cw"></div>
+<div id = "deep-nutrient-deficiency---dikopshof---winter-wheat-and-winter-rye"></div>
 ## Deep Nutrient Deficiency - Dikopshof - Winter Wheat and Winter Rye
 
-<img src="/assets/img/phenobench_teaser.jpg">
+<img src="/assets/img/deep_nutrient.jpg">
 
 In this challenge, we provide an image dataset of winter wheat and winter rye, where the task is to perform image classification to determine fertilizer treatments and consequently a solution to recognize nutrient deficiencies.
 
