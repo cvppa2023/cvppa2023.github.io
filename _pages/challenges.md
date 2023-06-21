@@ -41,6 +41,6 @@ In this challenge, we provide an image dataset of winter wheat and winter rye, w
 
 [More details about the challenge can be found here.](https://codalab.lisn.upsaclay.fr/competitions/13833)
 
-Please contact [Jinhui Yi](yij@iai.uni-bonn.de) if you have specific questions about this competition and concerns regarding the submission on CodaLab.
+Please contact [Jinhui Yi](mailto:yij@iai.uni-bonn.de) if you have specific questions about this competition and concerns regarding the submission on CodaLab.
 
 
