@@ -8,7 +8,12 @@ This year, we are running the following challenges:
 - [Hierarchical Panoptic Segmentation of Crops and Weeds](#hierarchical-panoptic-segmentation-of-crops-and-weeds)
 - [Deep Nutrient Deficiency - Dikopshof - Winter Wheat and Winter Rye](#deep-nutrient-deficiency---dikopshof---winter-wheat-and-winter-rye)
 
-Please feel free to participate to these challenges and submit your solutions as an extended abstract or full paper. Visit the [Call for Papers page](/submissions) for further details.   [Valerio Giuffrida](http://www.valeriogiuffrida.academy) is the challenges lead; [contact](mailto:V.Giuffrida@napier.ac.uk) with questions or concerns. Please also contact the competition organizers with 
+There will be a part of the workshop, where we announce 
+the winners and plan to award a certificate for winning 
+entries that provide a short description of their 
+technical approach by a short technical report.
+
+Please feel free to participate to these challenges and submit your solutions as an extended abstract or full paper. Visit the [Call for Papers page](/cfp) for further details.   [Valerio Giuffrida](http://www.valeriogiuffrida.academy) is the challenges lead; [contact](mailto:V.Giuffrida@napier.ac.uk) with questions or concerns. Please also contact the competition organizers with 
 specific questions regarding the competition.
 
 

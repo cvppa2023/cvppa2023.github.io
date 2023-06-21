@@ -6,11 +6,11 @@ title: "Call for Papers"
 
 Following successful CVPPP workshops from recent years at ECCV, BMVC, ICCV, and CVPR, CVPPP this year is held in conjunction with ICCV 2023. In this eighth workshop we aim to expand the scope of CVPPP to include computer vision research in agriculture more broadly. To reflect this change we have renamed the workshop to **CVPPA: Computer Vision in Plant Phenotyping and Agriculture**. The goal of the workshop remains to extend the state of the art in computer vision for plant and crop applications. 
 
-|Important dates       |       |      
-|Submission due (full paper or extended abstract) | TBA | 
-|Notification of acceptance | TBA | 
-| Camera-ready (papers and abstracts): | TBA | 
-| Workshop date: | TBA | 
+|Important Dates       |       |      
+|Submission due (full paper or extended abstract) | 21 July 2023 |
+|Notification of acceptance | 11 August 2023 | 
+|Camera-ready (papers and abstracts): | 21 August 2023 | 
+|Workshop date: | 2 October 2023 (PM) | 
 
 Paper Submission on [CMT](https://cmt3.research.microsoft.com/CVPPA2023)
  
@@ -28,9 +28,8 @@ Specific topics of interest include, but are not limited to, the following:
 -  open source implementations, comparison and discussion of existing methods and annotation tools; 
 -  image data sets defining plant phenotyping or agricultural tasks, complete with annotations if appropriate, accompanied with benchmark methods if possible, and suitable evaluation methods; and 
 -  [challenge contributions](/challenges) advancing the state of the art in the: 
-   - Global Wheat Head Detection Challenge 2021, [link](http://www.global-wheat.com/),
-   - Leaf Segmentation Challenge, [link](https://www.plant-phenotyping.org/CVPPP2017-challenge),  
-   - Leaf Counting Challenge, [link](https://data-challenges.fz-juelich.de/web/challenges/challengepage/85/overview). 
+   - Hierarchical Panoptic Segmentation of Crops and Weeds, [link](https://codalab.lisn.upsaclay.fr/competitions/13904),
+   - Nutrient Deficiency Classification, [link](https://github.com/jh-yi/DND-Diko-WWWR). 
  
  
 ## Further information and submission guidelines: 

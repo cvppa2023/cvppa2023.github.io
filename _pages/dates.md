@@ -13,5 +13,10 @@ title: "Important dates"
 
 ## Challenges
 
-We are running two challenges this year, and details on these will be released within the next days.
+We are running two challenges this year with the following schedule.
 
+|Dates       |       |      
+|Submission deadline | 31 August 2023 |
+|Notification of winners | 5 September 2023 | 
+|Short technical report | 22 September 2023 | 
+|Workshop date: | 2 October 2023 (PM) | 
