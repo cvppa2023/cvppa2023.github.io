@@ -4,7 +4,7 @@ title: "Call for Papers"
 ---
 
 
-Following successful CVPPP workshops from recent years at ECCV, BMVC, ICCV, and CVPR, CVPPP this year is held in conjunction with ICCV 2023. In this eighth workshop we aim to expand the scope of CVPPP to include computer vision research in agriculture more broadly. To reflect this change we have renamed the workshop to **CVPPA: Computer Vision in Plant Phenotyping and Agriculture**. The goal of the workshop remains to extend the state of the art in computer vision for plant and crop applications. 
+CVPPA, held in conjunction with ICCV 2023, aims to advance computer vision for plant and crop applications. Plant phenotyping, which involves studying the effects of genetic and environmental factors on plant structure and function, is crucial for sustainable agriculture. Traditionally, phenotypic traits were manually collected, but now sensor-based methods are preferred for non-invasive phenotyping. However, the analysis of these observations requires automated and accurate computer vision approaches to overcome bottlenecks that hinder our understanding of plant biology and limit our ability to ensure a sustainable food supply for a growing population in an unpredictable environment.
 
 |Important Dates       |       |      
 |Submission due (full paper or extended abstract) | 21 July 2023 |
