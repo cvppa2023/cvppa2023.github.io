@@ -18,7 +18,7 @@ Paper Submission on [CMT](https://cmt3.research.microsoft.com/CVPPA2023)
  
 Plant phenotyping is the identification of effects on plant structure and function (the phenotype) resulting from genotypic differences (i.e., differences in the genetic code) and the environmental conditions a plant has been exposed to. Knowledge of plant phenotypes is a key ingredient of the knowledge-based bioeconomy, which not only literally helps to feed the world, but is also essential for feed, fibre and fuel production. 
  
-Computer vision in agriculture problems tend to revolve around automation problems, such as automated detection of plant organs for automated weeding or harvest. The images are acquired in a variety of contexts: forests, fields, greenhouses or controlled environments, packing houses, etc. Since these definitions are quite broad, please contact the organizers or the [conference email](mailto:cvppp2021@gmail.com) if you are unsure about whether your submission is in the scope of the workshop. 
+Computer vision in agriculture problems tend to revolve around automation problems, such as automated detection of plant organs for automated weeding or harvest. The images are acquired in a variety of contexts: forests, fields, greenhouses or controlled environments, packing houses, etc. 
 
 We want to identify key but unsolved problems, expose the current state-of-the-art, and broaden the field and the community. 
  
