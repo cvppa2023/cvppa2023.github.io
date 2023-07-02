@@ -20,11 +20,11 @@ The length should not exceed 2 pages excluding the references, ie. 2 + n.  These
 
 ## Full paper policies.
 
-By submitting a manuscript to CVPPA 2021, the authors guarantee that it has not been previously published (or accepted for publication) in substantially similar form. Furthermore, no full paper which contains significant overlap with the contributions of this paper is either under review at the moment of submission or will be submitted during the CVPPA 2021 review period to any of the following: another conference, a workshop, or a journal. The authors also attest that they did not submit substantially similar submissions to CVPPA 2021. Violation of any of these conditions will lead to rejection.
+By submitting a manuscript to CVPPA 2023, the authors guarantee that it has not been previously published (or accepted for publication) in substantially similar form. Furthermore, no full paper which contains significant overlap with the contributions of this paper is either under review at the moment of submission or will be submitted during the CVPPA 2021 review period to any of the following: another conference, a workshop, or a journal. The authors also attest that they did not submit substantially similar submissions to CVPPA 2021. Violation of any of these conditions will lead to rejection.
 
 ## Author's responsibilities.
 
-If there are papers that may appear to violate any of these conditions, it is the authors’ responsibility to cite these papers (preserving anonymity), argue in the body of your paper why your CVPPA 2021 paper is non trivially different from these concurrent submissions, include anonymized versions of those papers in the supplemental material.
+If there are papers that may appear to violate any of these conditions, it is the authors’ responsibility to cite these papers (preserving anonymity), argue in the body of your paper why your CVPPA 2023 paper is non trivially different from these concurrent submissions, include anonymized versions of those papers in the supplemental material.
 
 ## Final camera ready copy (CRC).
 
