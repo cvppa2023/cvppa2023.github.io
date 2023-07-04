@@ -28,7 +28,7 @@ If there are papers that may appear to violate any of these conditions, it is th
 
 ## Final camera ready copy (CRC).
 
-Camera-ready submission for accepted papers will be open via *CMT link To Be Announced.*  At least one author of the paper needs to be registered for the workshop. Papers for which we have no registered authors will be removed from the workshop. For each accepted full paper authors should upload:
+Camera-ready submission for accepted papers will be open via an IEEE platform *link To Be Announced.* A transfer of copyright to IEEE/CVF will be required for camera-ready submission. Each published paper must have at least one author registered for the workshop under an AUTHOR registration; Virtual Registrations will not cover paper submissions. Papers for which we have no registered authors will be removed from the workshop. For each accepted full paper authors should upload:
 - final camera-ready paper (in PDF format),
 - optional supplementary materials (single ZIP file up to 100MB).
 

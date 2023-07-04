@@ -7,8 +7,8 @@ title: "Important dates"
 
 |Dates       |       |      
 |Submission due (full paper or extended abstract) | 21 July 2023 |
-|Notification of acceptance | 11 August 2023 | 
-|Camera-ready (papers and abstracts): | 21 August 2023 | 
+|Notification of acceptance | 7 August 2023 | 
+|Camera-ready (papers and abstracts): | 18 August 2023 | 
 |Workshop date: | 2 October 2023 (PM) | 
 
 ## Challenges
