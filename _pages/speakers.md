@@ -15,7 +15,7 @@ hidden: true
 
 The following speakers are confirmed for CVPPA 2023.
 
-## Andreas Hund, Crop Science, ETH Zurich
+## Andreas Hund, Crop Science, ETH Zürich
 
 **Carrying cameras through a wheat field: a game-changer for crop improvement?**
 
@@ -24,4 +24,4 @@ Field phenotyping of wheat research trials will significantly increase our under
 
 However, a robust segmentation and quantification of organs under field conditions will require large amounts of well-annotated images for training and validation. Also, sensing and robotic solutions will require more investment, before they may deliver timely decision support for breeders. Most systems including the related analysis workflows are still too complex to handle. I will outline the current state-of-the art in proximal, image-based field phenotyping using the example of wheat. This will include activities in the field phenotyping platform (kp.ethz.ch/FIP) as well as the EMPHASIS (https://emphasis.plant-phenotyping.eu/) and global wheat network (http://www.global-wheat.com/).
 
-<img src="../assets/img/speakers/andreas_hund.jpeg" alt="Andreas Hund headshot" align = "left" style="width:250px; padding: 0px 10px 10px 0px"/> Andreas Hund is a Professur für Kulturpflanzenwiss in the Department of Environmental Systems Science at ETH Zürich. His research focus is the adaptation of crop varieties to low nitrogen input conditions and abiotic stress. He started his career with genome mapping of root development of maize. He recently changed the focus on crop development under field conditions. His team continuously phenotypes wheat throughout its development using the Field Phenotyping Platform (FIP) and the Phenofly infrastructure.
+<img src="../assets/img/speakers/andreas_hund.jpeg" alt="Andreas Hund headshot" align = "left" style="width:250px; padding: 0px 10px 10px 0px"/> Andreas Hund is a Professor of Crop Science in the Department of Environmental Systems Science at ETH Zürich. His research focus is the adaptation of crop varieties to low nitrogen input conditions and abiotic stress. He started his career with genome mapping of root development of maize. He recently changed his research focus to crop development under field conditions. His team continuously phenotypes wheat throughout its development using the Field Phenotyping Platform (FIP) and the Phenofly infrastructure.
