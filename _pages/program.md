@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /program/
-title: "Workshop Program"
+title: "Tentative Workshop Program"
 hidden: true
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
@@ -10,6 +10,13 @@ hidden: true
 | A | B |
 | C | D |-->
 
-We anticipate that the program will contain sessions for the two data challenges, oral presentations of accepted papers, and a poster session. We will also have one or two invited speakers covering a range of topics in computer vision for plant phenotyping.
 
-**Update 7th September:** We are putting the finisihing touches on the programme and will be sending this out this week - thanks for your patience!
+October 2, 2023 (times are Central European Summer Time, UTC/GMT+2)
+
+|﻿Time|Session|
+|13:30-13:40|Welcoming message and short introduction|
+|13:40-14:20|Keynote Speaker: Andreas Hund|
+|14:20-15:20|Competition introduction and Spotlight Talks of Winning Entries|
+|15:20-16:30|Coffee break and Poster Session|
+|16:30-17:50|Spotlight Talks of Accepted Papers|
+|17:50-18:00|Closing Remarks|
