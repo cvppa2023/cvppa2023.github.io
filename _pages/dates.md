@@ -17,6 +17,6 @@ We are running two challenges this year with the following schedule.
 
 |Dates       |       |      
 |Submission deadline | 31 August 2023 |
-|Notification of winners | 5 September 2023 | 
-|Short technical report | 22 September 2023 | 
+|Short technical report | 20 September 2023 |
+|Notification of winners | 21 September 2023 | 
 |Workshop date: | 2 October 2023 (PM) | 
