@@ -32,6 +32,19 @@ More specifically, methods have to predict a semantic segmentation of sugar beet
 Please contact [Jens Behley](mailto:jens.behley@igg.uni-bonn.de) if you have specific questions about this competition 
 and concerns regarding the submission on CodaLab.
 
+The challenge concluded on *September 1, 2023* and the ranking of the competition have been determined based on the score and the submitted technical report.
+
+**Note:** The technical reports (up to 4 pages) are non-peer reviewed descriptions of the technical approach of the submissions. All contents are the intellectual property of the respective authors and should be acknowledged accordingly.
+
+|Place       | Authors   |  Technical Report       |      
+| 1 | Lu et al., Xidian University, China | [PDF]{reports/hierarchical_first_place.pdf} |
+| 2 | Nguyen et al., National Yang Ming Chiao Tung University, Taiwan|[PDF]{reports/hierarchical_second_place.pdf}  |
+| 3 | Güldenring et al., Technical University of Denmark, Denmark  | [PDF]{reports/hierarchical_third_place.pdf} | 
+| 4 | Chen et al., University of Science and Technology of China, China | [PDF]{reports/hierarchical_fourth_place.pdf} |
+| 5 | Darbyshire et al., University of Lincoln, UK | [PDF]{reports/hierarchical_fifth_place.pdf} |
+
+The 1st, 2nd, and 3rd place get a certificate and have the opportunity to present their work at the workshop.
+
 <div id = "deep-nutrient-deficiency---dikopshof---winter-wheat-and-winter-rye"></div>
 ## Deep Nutrient Deficiency - Dikopshof - Winter Wheat and Winter Rye
 
