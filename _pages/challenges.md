@@ -56,4 +56,16 @@ In this challenge, we provide an image dataset of winter wheat and winter rye, w
 
 Please contact [Jinhui Yi](mailto:yij@iai.uni-bonn.de) if you have specific questions about this competition and concerns regarding the submission on CodaLab.
 
+The challenge concluded on *September 1, 2023* and the ranking of the competition have been determined based on the score and the submitted technical report.
+
+|Place       | Authors   |  Technical Report       |      
+| 1 | Zhang et al., University of Queensland, Australia | [PDF](/reports/dnd_first_place.pdf) |
+| 2 | Wang et al., Technical University of Munich, Germany|[PDF](/reports/dnd_second_place.pdf)  |
+| 3 | Liu et al., Xi’an Jiaotong University, China  | [PDF](/reports/dnd_third_place.pdf) | 
+| 4 | Kuzu et al., Germany Aerospace Center (DLR), Germany | [PDF](/reports/dnd_fourth_place.pdf) |
+
+**Note:** The technical reports (up to 4 pages) are non-peer reviewed descriptions of the technical approach of the submissions. All contents are the intellectual property of the respective authors and should be acknowledged accordingly.
+
+The 1st, 2nd, and 3rd place get a certificate and have the opportunity to present their work at the workshop.
+
 
