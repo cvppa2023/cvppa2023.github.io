@@ -36,12 +36,12 @@ Leygonie, Rebecca*; Lobry, Sylvain; Wendling, Laurent, 2023. [\[PDF\]](/assets/1
 ---
 
 **A post-processing pipeline on foundation model for zero-shot learning segmentation of grains in maize ear.**\
-Boutra, Nacir; Leroux, Timothe; ROUSSEAU, David*, 2023. [\[PDF\]](/assets/24.pdf)
+Boutra, Nacir; Leroux, Timothe; Rousseau, David*, 2023. [\[PDF\]](/assets/24.pdf)
 
 ---
 
 **Leaf segmentation of seedlings using foundation model on RGB-Depth images.**\
-Cordier, Mathis; Metuarea, Herearii; Bencheikh, Meriem; Rasti, Pejman; Torrez, Cindy; ROUSSEAU, David*, 2023. [\[PDF\]](/assets/25.pdf)
+Cordier, Mathis; Metuarea, Herearii; Bencheikh, Meriem; Rasti, Pejman; Torrez, Cindy; Rousseau, David*, 2023. [\[PDF\]](/assets/25.pdf)
 
 ---
 
