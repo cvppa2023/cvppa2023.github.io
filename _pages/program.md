@@ -10,7 +10,9 @@ hidden: true
 | A | B |
 | C | D |-->
 
+The proceedings for CVPPA papers can be found on the [computer vision foundation repository](https://openaccess.thecvf.com/ICCV2023_workshops/CVPPA). Extended abstracts may be found below.
 
+Extended Abstracts
 ---
 
 **Taking Advantage of Depth Information for Semantic Segmentation in Field-Measured Vineyards.**\
